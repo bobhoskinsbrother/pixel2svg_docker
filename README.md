@@ -10,8 +10,7 @@ pixel2svg is from http://florian-berger.de/en/software/pixel2svg/
 
 Usage:
 ```bash
-./ctl.sh build && \
-./ctl.sh run wave.png --squaresize 50
+./ctl.sh build && ./ctl.sh run wave.png
 ```
 
 This then produces wav.svg in the same folder where the png file is
